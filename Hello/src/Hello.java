@@ -4,6 +4,7 @@ public class Hello {
         System.out.println("Second4");
         System.out.println("third2");
         System.out.println("main");
+        System.out.println("4th");
         System.out.println("End of demo.");
     }
 }
