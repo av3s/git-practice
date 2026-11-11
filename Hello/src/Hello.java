@@ -3,6 +3,7 @@ public class Hello {
         System.out.println("Hello, Git and GitHub!");
         System.out.println("Second4");
         System.out.println("third2");
+        System.out.println("main");
         System.out.println("End of demo.");
     }
 }
